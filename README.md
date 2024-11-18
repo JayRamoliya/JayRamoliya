@@ -2,7 +2,7 @@
 👋 Hi, I'm @JayRamoliya<br>👀 I’m interested in web development<br>🌱 I'm currently learning MERN<br>🥅 2024 Goals: Contribute to Open Source projects<br>⚡ Fun facts: I love to watch movies, Anime and play Chess
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ramoliyajay9?ext=heatmap)
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={ramoliyajay9}&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=ramoliyajay9&animated=true" alt="LeetCode Badges"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_ramoliya133) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayramoliya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ramoliyajay133) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ramoliyajay133) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Jay-Ramoliya-4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayRamoliya133) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jayramoliya) 
